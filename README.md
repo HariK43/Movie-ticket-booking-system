@@ -16,7 +16,7 @@ The **Movie Ticket Booking System** is a database management system (DBMS) proje
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/manish3173/Movie-Ticket-Booking-System.git
+    git clone https://github.com/HariK43/Movie-ticket-booking-system.git
     ```
 
 2. **Navigate to the project directory**:
@@ -57,7 +57,7 @@ Feel free to submit issues and pull requests. Contributions are welcome!
 ## Contact
 For questions or support, please contact:
 
-- **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+- **Hari Satyasai Kurra**: [harisatyasai43@gmail.com](mailto:harisatyasai43@gmail.com)
 
 ## License
 This project is licensed under the MIT License.
